@@ -21,10 +21,10 @@ A sample java project using Spring to demonstrate a blogging website's front &am
    Run "mvn spring-boot:run" to start the webserver.
    
 # Resources:
-  Blog post: https://blackrockdigital.github.io/startbootstrap-blog-post/
-  Adding a post: https://bootsnipp.com/snippets/featured/bootstrap-contact-form
-  Login page & springboot: https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/
-  Unit testing: https://www.baeldung.com/spring-boot-testing
+  - Blog post: https://blackrockdigital.github.io/startbootstrap-blog-post/
+  - Adding a post: https://bootsnipp.com/snippets/featured/bootstrap-contact-form
+  - Login page & springboot: https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/
+  - Unit testing: https://www.baeldung.com/spring-boot-testing
   # Tutorials referred: 
     https://spring.io/guides/gs/spring-boot/
     https://spring.io/projects/spring-data
