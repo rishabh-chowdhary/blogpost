@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.blog.controller.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.514 s <<< FAILURE! - in com.blog.controller.UserControllerTest
+testUserAlreadyExist(com.blog.controller.UserControllerTest)  Time elapsed: 0.19 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<400>
+	at com.blog.controller.UserControllerTest.testUserAlreadyExist(UserControllerTest.java:151)
+
